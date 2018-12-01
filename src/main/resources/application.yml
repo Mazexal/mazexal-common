@@ -36,3 +36,4 @@ mybatis:
 logging:
   level:
      com.mazexal.mazexalcommon.dao : debug
+  config: classpath:common-log.xml
